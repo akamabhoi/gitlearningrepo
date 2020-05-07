@@ -3,4 +3,6 @@ for i in range(5):
 
 print(" hogya bhai for loops")
 
-print("kuchh smj mai nhi aa rha hai")
+print("smj mai aa rha hai")
+
+print("in dev branch")
